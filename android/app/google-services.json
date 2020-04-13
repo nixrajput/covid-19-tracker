@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002450148586",
+    "firebase_url": "https://dashboard-app-e4874.firebaseio.com",
+    "project_id": "dashboard-app-e4874",
+    "storage_bucket": "dashboard-app-e4874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002450148586:android:08afd5c0a53c87e456cb93",
+        "android_client_info": {
+          "package_name": "com.codexsociety.covid19counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002450148586-742gff3joosv18upiq9lrag3u1otdbu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmi7qN4Blcl_BCoZLY-DptHPdJp1q39k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002450148586-742gff3joosv18upiq9lrag3u1otdbu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

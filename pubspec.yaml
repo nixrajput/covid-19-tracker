@@ -1,0 +1,43 @@
+name: covid19counter
+description: An Application to track cases of COVID-19 virus and provide some useful information regarding COVID-19 virus (Corona).
+
+
+version: 1.0.7+25
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  flutter_svg: ^0.17.4
+  firebase_core: ^0.4.0
+  firebase_analytics: ^5.0.11
+  cloud_firestore: ^0.12.9
+  package_info: ^0.4.0+6
+  link: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
