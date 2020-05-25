@@ -6,6 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+[![Download COVID19 Tracker](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/covid19-tracker/files/latest/download)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
